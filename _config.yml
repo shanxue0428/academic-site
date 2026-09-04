@@ -27,8 +27,8 @@ author:
   name             : "Shanxue Ye"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : ""
-  employer         : ""
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "Shanxue0428@outlook.com" 
 
