@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : 
   employer         : 
-  uri              : # URL
+  uri              : "/academic-site" 
   email            : "Shanxue0428@outlook.com" 
 
   # Academic websites
