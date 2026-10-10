@@ -1,12 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate-level courses"
+permalink: /teaching/2024-2025-jhu-teaching-assistant/
+venue: "Johns Hopkins University"
+date: 2024-08-01
+location: "Washington, DC, USA"
 ---
+
+**Courses:** Accounting · Investments · Derivatives · Corporate Governance
+
+Supported instruction across graduate-level courses in finance and accounting. Led office hours and assisted students with quantitative problem sets, coding, and data-based assignments. Supported course instruction and assessment.
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
