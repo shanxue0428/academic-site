@@ -4,7 +4,8 @@ collection: teaching
 type: "Graduate-level courses"
 permalink: /teaching/2024-2025-jhu-teaching-assistant/
 venue: "Johns Hopkins University"
-date: 2024-08-01
+date: 2024-08-31
+date_display: "Aug 2024 – Jun 2025"
 location: "Washington, DC, USA"
 ---
 
