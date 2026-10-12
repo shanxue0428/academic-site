@@ -1,36 +1,62 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Master's Thesis</h2>
 
-{% include base_path %}
+<h3>
+  Reasoning About AI-Assisted Opponents:
+  AI Advice and Counterpart-Advice Information in a One-Shot Beauty Contest
+</h3>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+  <em>University of Amsterdam · MSc Business Economics (Neuroeconomics) · 2026 · In progress</em>
+</p>
+
+<p>
+  This project examines how AI-generated advice and information about an
+  opponent's access to AI advice influence strategic reasoning and
+  decision-making in a one-shot beauty contest.
+</p>
+
+<p>
+  More broadly, I am interested in how people interpret algorithmic advice,
+  form beliefs about human and AI decision-makers, and adjust their choices
+  in strategic environments.
+</p>
+
+<hr>
+
+<h2>Research Experience</h2>
+
+<h3>Research Assistant · Johns Hopkins University</h3>
+
+<p>
+  <em>Applied Microeconomics & Corporate Finance · May 2024 – Jun 2025</em>
+</p>
+
+<p>
+  Conducted empirical research on firms' financing decisions, monetary-policy
+  communication, and asset-price responses. My work involved large-scale SEC
+  filing data, textual analysis of FOMC materials, and econometric analysis
+  using Python and Stata.
+</p>
+
+<h3>Research Assistant · Carbon Offset Project</h3>
+
+<p>
+  <em>Environmental & Applied Microeconomics · May 2024 – Nov 2025</em>
+</p>
+
+<p>
+  Worked with large project-level datasets on carbon offset initiatives,
+  focusing on data linkage, measurement, and empirical analysis of project
+  costs and characteristics.
+</p>
+
 
 
 
