@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Behavioral & Experimental Economics · Human–AI Decision-Making"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
