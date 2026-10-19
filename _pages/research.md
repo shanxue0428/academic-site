@@ -9,7 +9,7 @@ author_profile: true
 
 ### Reasoning About AI-Assisted Opponents: AI Advice and Counterpart-Advice Information in a One-Shot Beauty Contest
 
-*University of Amsterdam · MSc Business Economics (Neuroeconomics) · 2026 *
+University of Amsterdam · MSc Business Economics (Neuroeconomics) · 2026 
 
 This project examines how AI-generated advice and information about an opponent's access to AI advice influence strategic reasoning and decision-making in a one-shot beauty contest.
 
